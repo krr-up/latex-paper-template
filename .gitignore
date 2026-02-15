@@ -1,3 +1,4 @@
+*.abs
 *.aux
 *.bcf
 *.blg
@@ -12,12 +13,15 @@
 *.tex.bak
 *.tex.latexmain
 *.toc
+*.xmp*
 *~
 .DS_Store
 .initialized
+.vscode
 TAGS
 _region_.*
 auto/
-cloud
+cloud/
 paper.bbl
+paper.bst
 paper.pdf
