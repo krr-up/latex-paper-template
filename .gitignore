@@ -1,3 +1,4 @@
+*.abs
 *.aux
 *.bcf
 *.blg
@@ -12,14 +13,17 @@
 *.tex.bak
 *.tex.latexmain
 *.toc
+*.xmp*
 *~
 .DS_Store
 .agent-shell/
 .initialized
+.vscode
 GEMINI.md
 TAGS
 _region_.*
 auto/
-cloud
+cloud/
 paper.bbl
+paper.bst
 paper.pdf
