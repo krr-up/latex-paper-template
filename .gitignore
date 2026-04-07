@@ -14,7 +14,9 @@
 *.toc
 *~
 .DS_Store
+.agent-shell/
 .initialized
+GEMINI.md
 TAGS
 _region_.*
 auto/
