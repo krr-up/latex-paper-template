@@ -16,8 +16,10 @@
 *.xmp*
 *~
 .DS_Store
+.agent-shell/
 .initialized
 .vscode
+GEMINI.md
 TAGS
 _region_.*
 auto/
